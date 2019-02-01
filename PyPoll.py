@@ -5,8 +5,8 @@
 import csv
 import os
 
-# Files to load and output (Remember to change these)
-file_to_load = os.path.join("Resources", "election_data.csv")
+# Files to load and output
+file_to_load = os.path.join("election_data.csv")
 file_to_output = os.path.join("analysis", "election_analysis.txt")
 
 # Total Vote Counter
